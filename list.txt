@@ -1,7 +1,4 @@
 1.git小册测试
 2.git 修改操作
-<<<<<<< HEAD
-3.git A修改 push
-=======
-4.copy修改--->git pull
->>>>>>> 7679aa0d60d21a8d7e405a8b89cb42159a187f47
+3.B的修改
+
